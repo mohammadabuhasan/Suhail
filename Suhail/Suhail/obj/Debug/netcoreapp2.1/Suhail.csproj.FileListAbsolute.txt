@@ -1,0 +1,14 @@
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\bin\Debug\netcoreapp2.1\Suhail.deps.json
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\bin\Debug\netcoreapp2.1\Suhail.runtimeconfig.json
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\bin\Debug\netcoreapp2.1\Suhail.runtimeconfig.dev.json
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\bin\Debug\netcoreapp2.1\Suhail.dll
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.csprojAssemblyReference.cache
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.csproj.CoreCompileInputs.cache
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.RazorAssemblyInfo.cache
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.RazorAssemblyInfo.cs
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.AssemblyInfoInputs.cache
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.AssemblyInfo.cs
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.RazorTargetAssemblyInfo.cache
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\bin\Debug\netcoreapp2.1\Suhail.pdb
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.dll
+C:\Users\aqeel\OneDrive\Documents\Visual Studio 2017\Projects\Suhail\Suhail\obj\Debug\netcoreapp2.1\Suhail.pdb
